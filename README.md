@@ -19,6 +19,14 @@ The Flutter application provides a clean interface for users to select a cryptoc
 
 ## 📱 Screenshots
 
+| Crypto Selection | Date Range |
+|:----------------:|:-----------:|
+<img width="345" height="709" alt="image" src="https://github.com/user-attachments/assets/cf42b19b-b8b4-4855-82a1-84fc367f20e4" />
+<img width="339" height="743" alt="image" src="https://github.com/user-attachments/assets/38884d46-16e8-40d5-867b-3d04e2590a4d" />
+
+| **Prediction Toggle** | **Past Month Chart** |
+|:----------------:|:-----------:|
+
 <img width="385" height="747" alt="image" src="https://github.com/user-attachments/assets/31175712-c6c3-4aa2-89e8-21ba22c8c171" /> 
 <img width="385" height="745" alt="image" src="https://github.com/user-attachments/assets/5bbeb48e-f88b-4613-99af-1e14eaf0b652" />
 
